@@ -8,7 +8,7 @@ public class PersonController {
 	
 	@RequestMapping("/getname")
 	public String getName() {
-		return"endriosoft";
+		return"endriosoft aws test and deployment";
 	}
 
 }
